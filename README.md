@@ -22,8 +22,6 @@ Screenshots
 
 
 
-PARKAR
-
 
 
 

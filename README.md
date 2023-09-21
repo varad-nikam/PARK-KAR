@@ -2,6 +2,8 @@
 It's a comprehensive parking management system that utilizes RFID sensors for entry and exit, user account management, and real-time space availability tracking.
 
 OUR MOBILE APPLICATION - PAR-KAR
+
+
 <img width="145" alt="image" src="https://github.com/varad-nikam/PARK-KAR/assets/108221745/5afffe6a-c72e-46ac-b359-ac450fbc463f">
 
 
